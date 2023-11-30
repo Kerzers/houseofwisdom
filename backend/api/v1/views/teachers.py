@@ -76,6 +76,9 @@ def post_teacher():
                     'user_name': user.user_name,
                     'first_name': user.first_name,
                     'last_name': user.last_name,
+                    'user_email': user.email,
+                    'user_discord': user.user_discord,
+                    'user_wtsp': user.user_wtsp,
                     'location': user.location
     }
 
