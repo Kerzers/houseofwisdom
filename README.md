@@ -8,15 +8,86 @@ At House Of Wisdom, we believe in the power of education to transform lives, and
 <br/> <br/>
 To take a look at our project, you can visit this website: [House of Wisdom](https://houseofwisdom.vercel.app/)
 </div>
+<br/>
+
+## Team highlights 👥
+
+Backend Developer<br/>
+[AHRA Ahlane](https://github.com/kerzers): ALX SE Student<br/>
+Cohort: 13
+
+Frontend Developer<br/>
+[EL HAMRANI Omar](https://github.com/RyuzakiiL23): ALX SE Student<br/>
+Cohort: 13
+
+As a team, we’ve been working and helping each others for a while now. And throughout our previous projects and our collaborative experiences, it has become evident that Ahlame possesses some skills in backend development, while Omar likes to handle frontend tasks.
+What leads us to combine our strengths and collaborate closely, sharing knowledge and skills to ensure the success of our portfolio project! <br/> <br/>
+
+#### Process & Collarboration ⚙️ 🤝
+
+The process began with a comprehensive analysis of the current challenges faced by educators and students alike. 
+Research was conducted to understand the needs of both parties and how technology could bridge existing gaps.
+A user-centric design approach was employed to ensure the application is not just functional but also intuitive. 
+
+Despite our limited experience, we leveraged our academic background and enthusiasm to collaborate effectively.
+
+Our collaboration was characterized by frequent and open communication.
+ 
+Daily check-ins and brainstorming sessions ensured that we stayed aligned with the project's goals.
+
+
+#### Timeline 🕒
+
+<div align="center">
+  
+![title](pictures/timeline1.png)
+</div>
+
+<br>
+
+<div align="center">
+  
+![title](pictures/timeline2.png)
+</div>
+
+## Project highlights 📁
+
+**HouseOfWisdom** comes to solve the problem of students who looks for assistance during their journey or for getting help to complete or understand a specific task or topic.
+We try to solve this by creating a platform that links students in a better way where everyone will have something to earn.
+
+</br>
+<div align="center">
+  
+![title](pictures/landingPage.png)
+</div>
+
+#### 🏛️ Why House Of Wisdom ❓
+
+Many of us has been in the situation where we need help but don't know who to ask for. Some of us don't want to disturb their peers, others fear the rejection, and some are only shy.
+In our portfolio project we came up with solution for many of these problems and more ...
+
+In our platform all students could create an account and share their knowledge with their peers. Every account is a student, and every account is a teacher...
+Either looking for help, or having some extra time that you want to spend in a good purpose. We give all users the possibility to be a student and a teacher at the same time.
+
+Set up a teacher profile and choose the programming language which you are good and could help other peers.
+
 
 ## Overview 🌟
 1. **Technologies** 
 2. **Installation** 
-3. **Usage** 🚀
+3. **Usage** 
 4. **Contributors** 
 5. **License** 
 
-## Technologies
+## Technologies ⚛️
+
+<div align="center">
+
+![title](pictures/architecture.png)
+</div>
+
+<br/>
+
 ***Backend***
 - **Flask**: Web framework in Python.
 - **MySQL**: Open-source relational database management system.
