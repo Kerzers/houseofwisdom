@@ -35,6 +35,16 @@ Our collaboration was characterized by frequent and open communication.
  
 Daily check-ins and brainstorming sessions ensured that we stayed aligned with the project's goals.
 
+#### Challengees overcome 🏆 
+
+*Cloud Migration:* 
+
+We encountered a significant hurdle when transitioning our server from AWS to Azure due to costly billing. This switch demanded resetting all server configurations from scratch, posing a substantial challenge.
+
+*Database Stability*: 
+
+Our database posed reliability issues, leading to our server crashing due to slow data fetching and potential synchronization issues in our Flask application with SQLAlchemy and React. Addressing this, we reconstructed our database using SQLAlchemy to ensure stability.
+
 
 #### Timeline 🕒
 
