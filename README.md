@@ -177,7 +177,10 @@ verify the port where frontend get lanched its port 3000 as default and you use 
 
 ## Contributors 🤝
 - [AHRA Ahlane](https://github.com/kerzers) - ahra.ahlame@gmail.com
+- [Linkedin](https://www.linkedin.com/in/ahlame-ahra-8a5b4695/)
+
 - [EL HAMRANI Omar](https://github.com/RyuzakiiL23) - elhamrani.omar23@gmail.com
+- [Linkedin](https://www.linkedin.com/in/omar-el-hamrani/)
 
 🎉 We are grateful to make it this far and bring our own Simple_Shell to life 😊!
 
