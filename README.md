@@ -151,7 +151,7 @@ cd kns
 ```
 - Setup the database by this command:
 ```
-cat setup_db | sudo mysql
+cat setup_dev.sql | sudo mysql
 ```
 - Run the Flask application:
 ```
@@ -176,13 +176,13 @@ verify the port where frontend get lanched its port 3000 as default and you use 
 1. Access the backend API endpoints for the House of Wisdom website by using the routes if you want to test locally.
 
 ## Contributors 🤝
-- [AHRA Ahlane](https://github.com/kerzers) - ahra.ahlame@gmail.com
+- [AHRA Ahlame](https://github.com/kerzers) - ahra.ahlame@gmail.com
 - [Linkedin](https://www.linkedin.com/in/ahlame-ahra-8a5b4695/)
 
 - [EL HAMRANI Omar](https://github.com/RyuzakiiL23) - elhamrani.omar23@gmail.com
 - [Linkedin](https://www.linkedin.com/in/omar-el-hamrani/)
 
-🎉 We are grateful to make it this far and bring our own Simple_Shell to life 😊!
+🎉 We are grateful to make it this far and bring our own House of wisdom website to life 😊!
 
 ## License 📜
 This project is licensed under the MIT License Copyright (c) 2023 Omar EL HAMRANI Ahlame AHRA.
