@@ -1,6 +1,6 @@
 [submodule "frontend_test"]
 	path = frontend_test
-	url = https://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@github.com/RyuzakiiL23/frontend_test
+	url = https://github.com/RyuzakiiL23/frontend_test.git
 [submodule "kns"]
 	path = kns
-	url = https://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@github.com/Kerzers/kns
+	url = https://github.com/Kerzers/kns
