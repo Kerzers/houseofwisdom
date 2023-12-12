@@ -1,14 +1,20 @@
-# House of Wisdom Website
-At House Of Wisdom, we believe in the power of education to transform lives, and our Portfolio Project is dedicated to facilitating meaningful connections between Alx students seeking academic support and other Alx students eager to share their expertise
+<div align="center">
+  
+# House of Wisdom Website 🏛️
 
-To take a look in our project, you can visit this website: https://houseofwisdom.vercel.app/
+![title](pictures/logo.png)
 
-## Overview
-1. **Technologies**
-2. **Installation**
-3. **Usage**
-4. **Contributors**
-5. **License**
+At House Of Wisdom, we believe in the power of education to transform lives, and our Portfolio Project is dedicated to facilitating meaningful connections between Alx students seeking academic support and other Alx students eager to share their expertise.
+<br/> <br/>
+To take a look at our project, you can visit this website: [House of Wisdom](https://houseofwisdom.vercel.app/)
+</div>
+
+## Overview 🌟
+1. **Technologies** 
+2. **Installation** 
+3. **Usage** 🚀
+4. **Contributors** 
+5. **License** 
 
 ## Technologies
 ***Backend***
@@ -17,43 +23,65 @@ To take a look in our project, you can visit this website: https://houseofwisdom
 
 Libraries
 
-1. **Flask-CORS**
+1. **Flask-CORS** 
    - *Description*: Cross-origin resource sharing (CORS) for Flask.
 
-2. **Flask-WTF**
+2. **Flask-WTF** 
    - *Description*: Handles form submissions, validates data, and renders forms within Flask views.
 
-3. **Flask-SQLAlchemy**
+3. **Flask-SQLAlchemy** 
    - *Description*: Flask extension simplifying the integration of SQLAlchemy, a SQL toolkit, and Object-Relational Mapping (ORM) library, with Flask applications.
 
-4. **MySQL for Python**
+4. **MySQL for Python** 
    - *Description*: MySQL driver for Python.
 
-5. **UUID**
+5. **UUID** 
    - *Description*: Generates UUIDs.
 
 ***Frontend***
+<!-- You can add specific frontend technologies here -->
 
-***Web server***
-- **Nginx**: Open-source reverse proxy server for HTTP, HTTPS, SMTP, POP3, and IMAP protocols.
-- **Gunicorn**: Python WSGI HTTP Server for UNIX.
+***Web server***🌐
+- **Nginx** 
+- **Gunicorn** 
 
-##Installation
+## Installation 🚀
+***Getting Started***
 
-Getting Started
-- Make sure to install the required dependencies by running `setup.sh`.
-- Setup the database by this command: cat setup_db | sudo mysql
-- Run the Flask application: `run_app.py`
-- Add list of courses in the database by this command: cat add_courses | sudo mysql
+- Clone this repo with --recurse-submodules flag:
+```
+git clone --recurse-submodules https://github.com/Kerzers/houseofwisdom.git
+```
+- Go to the repo:
+```
+cd houseofwisdom
+```
+- Make sure to install the required dependencies by running: `setup.sh`.
+- Go to kns:
+```
+cd kns
+```
+- Setup the database by this command:
+```
+cat setup_db | sudo mysql
+```
+- Run the Flask application:
+```
+./run_app.py
+```
+- In a new terminal with the same path: Add a list of courses in the database by running this command:
+```
+cat add_courses | sudo mysql
+```
 
-## Usage
-1. Access the backend API endpoints for the House of Wisdom website by using the routes if you want to tested locally.
+## Usage 🚀
+1. Access the backend API endpoints for the House of Wisdom website by using the routes if you want to test locally.
 
-## Contributors
-- Ahlame Ahra - ahra.ahlame@gmail.com
-- Omar El Hamrani - elhamrani.omar23@gmail.com
+## Contributors 🤝
+- [AHRA Ahlane](https://github.com/kerzers) - ahra.ahlame@gmail.com
+- [EL HAMRANI Omar](https://github.com/RyuzakiiL23) - elhamrani.omar23@gmail.com
 
-## License
+🎉 We are grateful to make it this far and bring our own Simple_Shell to life 😊!
+
+## License 📜
 This project is licensed under the MIT License Copyright (c) 2023 Omar EL HAMRANI Ahlame AHRA.
-
----
