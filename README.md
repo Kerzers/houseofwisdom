@@ -39,7 +39,14 @@ Libraries
    - *Description*: Generates UUIDs.
 
 ***Frontend***
-<!-- You can add specific frontend technologies here -->
+1. **REACT**
+  - *Description*: Javascript library.
+
+2. **NextJS**
+  - *Description*: React framework.
+
+3. **Tailwind CSS**
+  - *Description*: a organized way to use css.
 
 ***Web server***🌐
 - **Nginx** 
@@ -73,6 +80,16 @@ cat setup_db | sudo mysql
 ```
 cat add_courses | sudo mysql
 ```
+- Now you should go to the front end folder and install React and Next js dependencies (Make sure that you have NodeJS installed on your machine):
+```
+cd ../frontend_test
+npm install
+```
+-After installing dependencies you can start the front end with:
+```
+npm run dev
+```
+verify the port where frontend get lanched its port 3000 as default and you use that port on ur browser as a localhost.
 
 ## Usage 🚀
 1. Access the backend API endpoints for the House of Wisdom website by using the routes if you want to test locally.
